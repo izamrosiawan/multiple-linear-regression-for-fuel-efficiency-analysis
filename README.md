@@ -25,16 +25,3 @@ Berikut adalah struktur berkas di dalam repositori ini:
     *   Menganalisis koefisien determinasi ($R^2$ & *Adjusted* $R^2$) untuk mengukur seberapa besar variabilitas data MPG yang dapat dijelaskan oleh model.
     *   Menguji kecocokan model secara keseluruhan (*Goodness of Fit*) melalui Uji F.
 
----
-
-## 🛠️ Cara Menjalankan
-
-### Persyaratan Sistem
-Instal pustaka Python berikut sebelum menjalankan notebook (termasuk modul untuk membaca file Excel):
-```bash
-pip install numpy pandas matplotlib seaborn statsmodels openpyxl
-```
-
-### Langkah Penggunaan
-1. Buka berkas `main.ipynb` menggunakan Jupyter Notebook, JupyterLab, atau VS Code.
-2. Jalankan semua sel kode secara bertahap untuk melihat keluaran tabel statistik regresi (termasuk ringkasan OLS), koefisien model, nilai korelasi, dan visualisasi tren data.
