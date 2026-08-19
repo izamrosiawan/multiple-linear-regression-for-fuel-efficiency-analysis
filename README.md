@@ -1,4 +1,4 @@
-# Multiple Linear Regression for Fuel Efficiency Analysis (Auto MPG)
+﻿# Multiple Linear Regression for Fuel Efficiency Analysis (Auto MPG)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Regression-orange.svg)](https://scikit-learn.org/)
@@ -9,7 +9,7 @@ Repositori ini menyajikan analisis regresi linear berganda (*Multiple Linear Reg
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 ```
 ├── .gitignore          # Konfigurasi pengabaian cache Git
@@ -24,7 +24,7 @@ Repositori ini menyajikan analisis regresi linear berganda (*Multiple Linear Reg
 
 ---
 
-## 💻 Implementasi Modular & Pengujian Otomatis
+## Implementasi Modular & Pengujian Otomatis
 
 Modul regresi linear tersedia di `src/fuel_model.py`:
 
@@ -43,7 +43,7 @@ pytest tests/
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. **Pasang Dependensi**:
    ```bash
@@ -57,3 +57,4 @@ pytest tests/
 
 ---
 *Fuel Efficiency Multiple Linear Regression Project.*
+
